@@ -1,0 +1,14 @@
+.languages {
+    margin-top: 14px;
+    margin-bottom: 130px;
+    font-size: 14px;
+}
+
+.languages span{
+    padding: 5px;   
+}
+
+.languages span a {
+    text-decoration: none;
+   
+}

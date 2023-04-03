@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-history {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}

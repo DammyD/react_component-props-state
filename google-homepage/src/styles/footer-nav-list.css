@@ -1,0 +1,36 @@
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px 30px;
+    align-items: center;
+    cursor: pointer;
+    font-size: 15px;
+    color: #6f6f6f;
+}
+
+.footer-center{
+    display: flex;
+    padding: 15px;
+}
+
+.footer-center img {
+    width: 30px;
+    height: 20px;
+}
+
+.footer-left {
+    display: flex;
+    gap: 30px;
+    margin-left: 20px;
+}
+
+.footer-right {
+    display: flex;
+    gap: 30px;
+    margin-right: 20px;
+}
+
+.footer-links:hover {
+    text-decoration: underline;
+}
